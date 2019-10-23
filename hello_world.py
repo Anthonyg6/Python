@@ -8,7 +8,3 @@ class Student:
 Anthony = Student('Anthony', 'A', 26)
 
 print(Anthony.name, Anthony.grade, Anthony.age)
-
-grade = Anthony.grade
-
-print(grade)
